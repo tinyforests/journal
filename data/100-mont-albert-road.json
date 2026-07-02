@@ -11,7 +11,12 @@
       "date": "2026-07-02",
       "title": "Removing brick edging and onion grass",
       "body": "Early-stage site preparation. New soil will be imported and machinery sourced for the remaining removal work. For now, onion grass is being cleared manually by hand.",
-      "photos": []
+      "photos": [
+        {"src": "photos/100-mont-albert-road/remove-brick-edging.jpeg", "caption": "Brick edging removed"},
+        {"src": "photos/100-mont-albert-road/remove-edging-1.jpeg", "caption": "Edging removal underway"},
+        {"src": "photos/100-mont-albert-road/remove-edging-2.jpeg", "caption": "Edging removal underway"},
+        {"src": "photos/100-mont-albert-road/remove-onion-grass.jpeg", "caption": "Onion grass cleared by hand"}
+      ]
     },
     {
       "date": "2026-07-02",
@@ -23,7 +28,9 @@
       "date": "2026-07-02",
       "title": "Skip bin delivered",
       "body": "Accepted delivery of a 6m\u00b3 skip bin on site for the removal waste.",
-      "photos": []
+      "photos": [
+        {"src": "photos/100-mont-albert-road/skip-bin-delivery.jpeg", "caption": "6m\u00b3 skip bin delivered on site"}
+      ]
     },
     {
       "date": "2026-07-02",
