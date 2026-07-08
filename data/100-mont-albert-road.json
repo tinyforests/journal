@@ -37,6 +37,26 @@
       "title": "Mini loader booked",
       "body": "Booked a mini loader for hire, available from next Tuesday (7 July), to move through the remaining removal work.",
       "photos": []
+    },
+    {
+      "date": "2026-07-07",
+      "title": "Mini loader hired, site protected",
+      "body": "Picked up the Kanga mini loader from the hire depot. Purchased and laid asset protection materials across the grassed areas on site ahead of machine work, to keep the lawn from being damaged during excavation.",
+      "photos": [
+        {"src": "photos/100-mont-albert-road/machine-hire.jpeg", "caption": "Kanga mini loader, picked up from the hire depot"},
+        {"src": "photos/100-mont-albert-road/asset-protection.jpeg", "caption": "Asset protection laid over grassed areas"}
+      ]
+    },
+    {
+      "date": "2026-07-07",
+      "title": "Excavation and removal begins",
+      "body": "With the loader on site and the lawn protected, excavation and removal work got underway. We also shared a behind-the-scenes look at the day on Instagram \u2014 some gardens begin with planting, this one begins with subtraction.",
+      "photos": [
+        {"src": "photos/100-mont-albert-road/excavation-1.jpeg", "caption": "Excavation underway"},
+        {"src": "photos/100-mont-albert-road/excavation-2.jpeg", "caption": "Excavation underway"},
+        {"src": "photos/100-mont-albert-road/excavation-3.jpeg", "caption": "Excavation underway"},
+        {"src": "photos/100-mont-albert-road/instagram-post.jpeg", "caption": "Shared on the Gardener & Son Instagram"}
+      ]
     }
   ]
 }
