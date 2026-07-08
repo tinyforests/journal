@@ -57,6 +57,16 @@
         {"src": "photos/100-mont-albert-road/excavation-3.jpeg", "caption": "Excavation underway"},
         {"src": "photos/100-mont-albert-road/instagram-post.jpeg", "caption": "Shared on the Gardener & Son Instagram"}
       ]
+    },
+    {
+      "date": "2026-07-08",
+      "title": "Second bed excavated, bin filled",
+      "body": "Continued excavation into the second garden bed. The skip bin is now filled and ready for pick-up tomorrow.",
+      "photos": [
+        {"src": "photos/100-mont-albert-road/continue-excavation.jpeg", "caption": "Excavation continues into the second bed"},
+        {"src": "photos/100-mont-albert-road/excavation-second-bed.jpeg", "caption": "Second garden bed being excavated"},
+        {"src": "photos/100-mont-albert-road/skip-bin-filled.jpeg", "caption": "Skip bin filled, ready for pick-up"}
+      ]
     }
   ]
 }
