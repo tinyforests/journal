@@ -87,6 +87,25 @@
         {"src": "photos/100-mont-albert-road/remove-english-ivy.jpeg", "caption": "English ivy (Hedera helix) removed from the fence line"},
         {"src": "photos/100-mont-albert-road/remove-apple-tree.jpeg", "caption": "Apple tree (Malus) removed from the garden bed"}
       ]
+    },
+    {
+      "date": "2026-07-14",
+      "title": "Rock delivery and more asset protection",
+      "body": "Delivery of igneous habitat rocks arrived on site for the ecological garden. Picked up additional asset protection materials ahead of continued works.",
+      "photos": [
+        {"src": "photos/100-mont-albert-road/igneous-rocks-delivery.jpeg", "caption": "Igneous habitat rocks delivered"},
+        {"src": "photos/100-mont-albert-road/asset-protection-more.jpeg", "caption": "More asset protection materials picked up"}
+      ]
+    },
+    {
+      "date": "2026-07-14",
+      "title": "Soil blend moved into garden beds",
+      "body": "Used the Kanga kid digger to move and blend the new soil mix through the garden beds.",
+      "photos": [
+        {"src": "photos/100-mont-albert-road/kanga-digger-soil-blend.jpeg", "caption": "Kanga kid digger blending soil into the beds"},
+        {"src": "photos/100-mont-albert-road/beds-filled-soil-blend-1.jpeg", "caption": "Garden beds filled with soil blend"},
+        {"src": "photos/100-mont-albert-road/beds-filled-soil-blend-2.jpeg", "caption": "Garden beds filled with soil blend"}
+      ]
     }
   ]
 }
