@@ -67,6 +67,17 @@
         {"src": "photos/100-mont-albert-road/excavation-second-bed.jpeg", "caption": "Second garden bed being excavated"},
         {"src": "photos/100-mont-albert-road/skip-bin-filled.jpeg", "caption": "Skip bin filled, ready for pick-up"}
       ]
+    },
+    {
+      "date": "2026-07-09",
+      "title": "Detailing excavation by hand",
+      "body": "Fine detailing of the excavation by hand, working in close around the areas the machine can't reach cleanly.",
+      "photos": [
+        {"src": "photos/100-mont-albert-road/detailing-excavation-by-hand-1.jpeg", "caption": "Detailing excavation by hand"},
+        {"src": "photos/100-mont-albert-road/detailing-excavation-by-hand-2.jpeg", "caption": "Detailing excavation by hand"},
+        {"src": "photos/100-mont-albert-road/misty-morning.jpeg", "caption": "Misty morning on site"},
+        {"src": "photos/100-mont-albert-road/misty-morning-green-space.jpeg", "caption": "Misty morning over the adjacent green space"}
+      ]
     }
   ]
 }
