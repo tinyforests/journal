@@ -78,6 +78,15 @@
         {"src": "photos/100-mont-albert-road/misty-morning.jpeg", "caption": "Misty morning on site"},
         {"src": "photos/100-mont-albert-road/misty-morning-green-space.jpeg", "caption": "Misty morning over the adjacent green space"}
       ]
+    },
+    {
+      "date": "2026-07-13",
+      "title": "English ivy and apple tree removed",
+      "body": "Removed English ivy (Hedera helix) from the fence line, and a Malus (apple tree) from the garden bed, clearing the way for the new planting layout.",
+      "photos": [
+        {"src": "photos/100-mont-albert-road/remove-english-ivy.jpeg", "caption": "English ivy (Hedera helix) removed from the fence line"},
+        {"src": "photos/100-mont-albert-road/remove-apple-tree.jpeg", "caption": "Apple tree (Malus) removed from the garden bed"}
+      ]
     }
   ]
 }
