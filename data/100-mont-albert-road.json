@@ -217,6 +217,18 @@
           "caption": "Mains line discovered, garden light relocated"
         }
       ]
+    },
+    {
+      "date": "2026-07-30",
+      "title": "Habitat features installed \u2014 rocks, logs, chairs, light",
+      "body": "Installed the igneous habitat rocks, logs, concrete chairs and garden light into the beds.",
+      "photos": [
+        {"src": "https://lh3.googleusercontent.com/d/1rCOphwX3MVhC9t_8qOMfDUz7WNNFzPYa=w1200", "caption": "Rock installation"},
+        {"src": "https://lh3.googleusercontent.com/d/1EmRu9dVMyaBNrGjclINiLIgNCeNg5iH6=w1200", "caption": "Igneous rock and concrete chair installation"},
+        {"src": "https://lh3.googleusercontent.com/d/1M44f22_uqQ1fTJ9iBJsEsb9zHZonJnWd=w1200", "caption": "Log installation"},
+        {"src": "https://lh3.googleusercontent.com/d/1D2O3IZJKsI9H2FWK09ijP3SIOQGMB2x4=w1200", "caption": "Concrete chair installation"},
+        {"src": "https://lh3.googleusercontent.com/d/1KieVEhW9UTe6dXs3eTyowN8J9SqfbOKZ=w1200", "caption": "Light installation"}
+      ]
     }
   ]
 }
