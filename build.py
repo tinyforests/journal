@@ -3,11 +3,8 @@
 Gardener & Son — Garden Journal builder.
 
 Usage:
-    python3 build.py data/<slug>.json
-
-Reads a project JSON file and writes output/<slug>.html — a single
-self-contained, static page in the G&S design system. No dependencies
-beyond the standard library.
+    python3 build.py data/<slug>.json   (builds one project + refreshes index)
+    python3 build.py all                (builds every project + index)
 """
 import json
 import sys
@@ -38,7 +35,6 @@ def render_photo(photo):
     if src:
         img_tag = f'<img src="{esc(src)}" alt="{caption}" loading="lazy" onclick="openLightbox(this.src)">'
     else:
-        # Placeholder — no photo file supplied yet
         img_tag = (
             '<div class="photo-placeholder">'
             '<svg viewBox="0 0 24 24" width="28" height="28" aria-hidden="true">'
@@ -87,9 +83,11 @@ def build(data_path):
     address = esc(data.get("address", ""))
     designer = esc(data.get("designer", ""))
     status = esc(data.get("status", "In progress"))
+
     indexed_entries = list(enumerate(data["entries"]))
     indexed_entries.sort(key=lambda pair: (pair[1]["date"], pair[0]), reverse=True)
     entries = [e for _, e in indexed_entries]
+
     entries_count = len(entries)
     started = fmt_date(data["start_date"]) if data.get("start_date") else ""
     latest_date = fmt_date(entries[0]["date"]) if entries else ""
@@ -144,7 +142,6 @@ def build(data_path):
     padding: 0 24px 120px;
   }}
 
-  /* ---------- Header ---------- */
   header.hero {{
     padding: 64px 0 40px;
     border-bottom: 1px solid var(--line);
@@ -203,7 +200,6 @@ def build(data_path):
     color: var(--ink);
   }}
 
-  /* ---------- Timeline ---------- */
   .timeline {{
     position: relative;
   }}
@@ -349,7 +345,6 @@ def build(data_path):
     border-top: 1px solid var(--line);
   }}
 
-  /* ---------- Footer ---------- */
   footer {{
     margin-top: 80px;
     padding-top: 24px;
@@ -365,7 +360,6 @@ def build(data_path):
     gap: 8px;
   }}
 
-  /* ---------- Lightbox ---------- */
   #lightbox {{
     display: none;
     position: fixed;
