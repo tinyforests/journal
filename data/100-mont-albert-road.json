@@ -229,6 +229,41 @@
         {"src": "https://lh3.googleusercontent.com/d/1D2O3IZJKsI9H2FWK09ijP3SIOQGMB2x4=w1200", "caption": "Concrete chair installation"},
         {"src": "https://lh3.googleusercontent.com/d/1KieVEhW9UTe6dXs3eTyowN8J9SqfbOKZ=w1200", "caption": "Light installation"}
       ]
+    },
+    {
+      "date": "2026-08-03",
+      "title": "Garden lights repaired",
+      "body": "Sally had noticed the garden lights weren't working. Worked through a few possible causes before finding it \u2014 the LED sockets had corroded and worn out. Replaced and rewired the affected sockets, then tested to confirm the lights are working properly again.",
+      "photos": [
+        {"src": "https://lh3.googleusercontent.com/d/1xUiX0uEGV3VGUKggPKhviQGSxRv9qsoo=w1200", "caption": "Faulty LED socket requiring replacement"},
+        {"src": "https://lh3.googleusercontent.com/d/1AaWhRLoSwP-_KssYiL-EaKwGpgcMXKnX=w1200", "caption": "Rewiring the lights"},
+        {"src": "https://lh3.googleusercontent.com/d/1OCUUqmyUs4f9cSCQhizbl4f8XY5o4GwX=w1200", "caption": "Light working after testing"}
+      ]
+    },
+    {
+      "date": "2026-08-03",
+      "title": "Tree removed",
+      "body": "Removed a tree from the garden as part of the ongoing works.",
+      "photos": [
+        {"src": "https://lh3.googleusercontent.com/d/1IJdKgc0tUl5nJ-Dp_QOWYptAHTUZOm4E=w1200", "caption": "Tree removal"}
+      ]
+    },
+    {
+      "date": "2026-08-03",
+      "title": "Limestone steppers installed",
+      "body": "Installed the limestone stepping stones through the garden.",
+      "photos": [
+        {"src": "https://lh3.googleusercontent.com/d/1XxSKib0atymjotlPILGj7LZidhFev40Y=w1200", "caption": "Installation of limestone steppers"}
+      ]
+    },
+    {
+      "date": "2026-08-03",
+      "title": "Habitat rock repositioned, plants watered",
+      "body": "Repositioned a habitat rock to help catch water, and watered in the new plants.",
+      "photos": [
+        {"src": "https://lh3.googleusercontent.com/d/1zE_zrJc1V8ZEsfbLYjvRHh0sl2ak5MPN=w1200", "caption": "Positioning of habitat rock to catch water"},
+        {"src": "https://lh3.googleusercontent.com/d/1P8QZ49Dsl7yG8wcrlm0Rgll3OR51e0kr=w1200", "caption": "Watering of plants"}
+      ]
     }
   ]
 }
